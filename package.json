@@ -9,7 +9,6 @@
     "predeploy": "npm run build",
     "deploy": "vk-miniapps-deploy",
     "clean-source": " rimraf README.md src webroot package.json ",
-    "now-build": "react-scripts build"
   },
   "keywords": [],
   "author": "",
@@ -46,5 +45,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage":"./"
+  "homepage": "./"
 }
